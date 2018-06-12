@@ -1,5 +1,5 @@
-To creat this projects just open your bash on the pretended directory
-type
+To create a project like this just open your bash on the pretended directory
+type:
 ```
 create-react-app react-typescript --scripts-version=react-scripts-ts
 ```
