@@ -4,6 +4,8 @@ type:
 create-react-app react-typescript --scripts-version=react-scripts-ts
 ```
 --------------------------------------------
+Where, react-typescript is an example for the name of your app folder
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
